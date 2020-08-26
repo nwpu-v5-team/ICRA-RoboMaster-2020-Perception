@@ -60,3 +60,7 @@ python3 train.py --fine_tune 1  --pretrained_model "{PRETRAINED_MODEL_PATH}"
 
 ## using RTS-deploy
 
+```bash
+rosrun  ICRA-vision  ICRA_vision
+```
+
