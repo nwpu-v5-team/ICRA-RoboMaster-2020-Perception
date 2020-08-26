@@ -5,6 +5,7 @@ from itertools import  product
 
 #
 #  先验框 anchor-base方法
+#  基于锚点方法，可以提高检测精确度
 #
 @registry.PriorBox.register("PriorBox")
 class PriorBox:
