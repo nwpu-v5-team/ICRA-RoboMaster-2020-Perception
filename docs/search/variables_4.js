@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['data_5fdir_1078',['data_dir',['../classdata_1_1dataset_1_1voc_1_1_voc_data_set.html#aedcf98170fc53ff53110662f392cafe1',1,'data::dataset::voc::VocDataSet']]],
+  ['datatype_1079',['dataType',['../class_i_c_r_a___vision_1_1_s_s_d_param.html#ad851712f49b1ab653908166f1233c279',1,'ICRA_Vision::SSDParam']]],
+  ['delimiter_1080',['delimiter',['../classutils_1_1metric__logger_1_1_metric_logger.html#a84ef58df1e6b7b39f3e0f6b8eed2a1af',1,'utils::metric_logger::MetricLogger']]],
+  ['delta_1081',['delta',['../classdata_1_1transform_1_1transform_1_1_random_hue.html#a768fe6479f5f6e9a5e51969acaf04e51',1,'data.transform.transform.RandomHue.delta()'],['../classdata_1_1transform_1_1transform_1_1_random_brightness.html#ae63588f62d85f2d4ae1358be4d25aa7b',1,'data.transform.transform.RandomBrightness.delta()']]],
+  ['depth_1082',['depth',['../class_i_c_r_a___vision_1_1detection_device.html#ab3db111ec5e2a00f4f89d422ec584761',1,'ICRA_Vision::detectionDevice']]],
+  ['depth_5fmutex_1083',['depth_mutex',['../class_i_c_r_a___vision_1_1detection_device.html#acd23e700d4eba1fefddc51ad9aa00a84',1,'ICRA_Vision::detectionDevice']]],
+  ['depth_5fsuber_1084',['depth_suber',['../class_i_c_r_a___vision_1_1detection_device.html#aff610635542fb39627c1bdeaa3fd4e51',1,'ICRA_Vision::detectionDevice']]],
+  ['deque_1085',['deque',['../classutils_1_1metric__logger_1_1_smoothed_value.html#a995d39968b886656bb1bf8993f620a10',1,'utils::metric_logger::SmoothedValue']]],
+  ['detections_1086',['detections',['../namespacetest.html#a9c15a3e61e7a520a8e6884c5fc8c3a77',1,'test']]],
+  ['detectionv_1087',['detectionV',['../classros_det.html#a4b85267ccc1dc5b4b7f4231b82e95705',1,'rosDet']]],
+  ['detectnum_1088',['detectNum',['../class_det.html#a00b89f6dbea673932d9963e2745e84bf',1,'Det']]],
+  ['detectnumthreshold_1089',['detectNumThreshold',['../class_det.html#a3f5e0fec19aa420d94e7ff04177321a4',1,'Det']]],
+  ['device_5fbbox_5fdata_1090',['device_bbox_data',['../class_i_c_r_a___vision_1_1detection_s_s_d.html#ac5043663e9f35ac575c1fbfcdcb321f9',1,'ICRA_Vision::detectionSSD']]],
+  ['device_5findex_5fdata_1091',['device_index_data',['../class_i_c_r_a___vision_1_1detection_s_s_d.html#a4e7fed1a8f8729d4f4fd84641184ce10',1,'ICRA_Vision::detectionSSD']]],
+  ['device_5fkept_1092',['device_kept',['../class_i_c_r_a___vision_1_1detection_s_s_d.html#a5c4554abee26d67edc8a6c257454887c',1,'ICRA_Vision::detectionSSD']]],
+  ['device_5fpred_5fdata_1093',['device_pred_data',['../class_i_c_r_a___vision_1_1detection_s_s_d.html#ac22bb939db548826c1bbca9d61c70850',1,'ICRA_Vision::detectionSSD']]],
+  ['devicebuffer_1094',['deviceBuffer',['../class_managed_buffer.html#afe22e33dd72a6fca4c09913cbdb10b3e',1,'ManagedBuffer']]],
+  ['down_5flist_1095',['down_list',['../classmobilenet_v2_1_1_mobile_net_v2.html#a6394802580f33125130511e4dc1320d9',1,'mobilenetV2.MobileNetV2.down_list()'],['../classmobilenet_v3_1_1_mobile_net_v3___large.html#ac5fd017b470d074d3f6e9607b446fe38',1,'mobilenetV3.MobileNetV3_Large.down_list()'],['../classws2_net_1_1_w_s2.html#a36e4303cfb9d9eb014a97a0810fad4b9',1,'ws2Net.WS2.down_list()'],['../classws_net_1_1_w_s.html#a0c4e289948c72d821b594cf8b0c2372c',1,'wsNet.WS.down_list()']]]
+];

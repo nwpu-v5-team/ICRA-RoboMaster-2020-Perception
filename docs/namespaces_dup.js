@@ -1,0 +1,25 @@
+var namespaces_dup =
+[
+    [ "anchors", "namespaceanchors.html", "namespaceanchors" ],
+    [ "backbone", "namespacebackbone.html", "namespacebackbone" ],
+    [ "box_head", "namespacebox__head.html", "namespacebox__head" ],
+    [ "data", "namespacedata.html", "namespacedata" ],
+    [ "ICRA_Vision", "namespace_i_c_r_a___vision.html", null ],
+    [ "mobilenetV2", "namespacemobilenet_v2.html", null ],
+    [ "mobilenetV3", "namespacemobilenet_v3.html", null ],
+    [ "onnx", "namespaceonnx.html", "namespaceonnx" ],
+    [ "process", "namespaceprocess.html", null ],
+    [ "registry", "namespaceregistry.html", null ],
+    [ "robot_vision", "namespacerobot__vision.html", null ],
+    [ "ros", "namespaceros.html", "namespaceros" ],
+    [ "solver", "namespacesolver.html", "namespacesolver" ],
+    [ "ssd_detector", "namespacessd__detector.html", null ],
+    [ "test", "namespacetest.html", null ],
+    [ "train", "namespacetrain.html", null ],
+    [ "utils", "namespaceutils.html", "namespaceutils" ],
+    [ "vgg", "namespacevgg.html", null ],
+    [ "VLOG", "namespace_v_l_o_g.html", null ],
+    [ "voc", "namespacevoc.html", "namespacevoc" ],
+    [ "ws2Net", "namespacews2_net.html", null ],
+    [ "wsNet", "namespacews_net.html", null ]
+];
