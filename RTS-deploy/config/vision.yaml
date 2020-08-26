@@ -1,0 +1,11 @@
+ onnxFileName: ../model.onnx 
+ keepTopK: 20 
+ batchSize: 1 
+ nms_threshold: 0.5 
+ conf_threshold: 0.4 
+ usingDLA: 0 
+ usingFP16: false 
+ input: input.1 
+ output: [726,727,728] 
+ class: [ None,car, RedArm1,RedArm2, BlueArm1, BuleArm2] 
+
