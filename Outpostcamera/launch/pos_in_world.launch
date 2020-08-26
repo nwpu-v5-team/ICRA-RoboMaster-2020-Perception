@@ -1,0 +1,15 @@
+<launch>
+<!--1 4
+2 3-->
+    <param name="/point_1_x" value= "113.5"/> 
+    <param name="/point_1_y" value= "354"/> 
+
+    <param name="/point_2_x" value= "113.5"/> 
+    <param name="/point_2_y" value= "454"/> 
+
+    <param name="/point_3_x" value= "328"/> 
+    <param name="/point_3_y" value= "454"/> 
+
+    <param name="/point_4_x" value= "328"/> 
+    <param name="/point_4_y" value= "354"/> 
+</launch>

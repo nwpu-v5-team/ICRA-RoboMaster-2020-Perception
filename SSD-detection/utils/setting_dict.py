@@ -67,7 +67,7 @@ setting_dict = {
             }
     },
         "test" : {
-            "data_set" : ["/DJI/DJItest"],#["/media/wang_shuai/新加卷/512test"],
+            "data_set" : ["/DJI/DJItest"],
             "batch_size" : 2,
             "transform" :
                 {
@@ -76,7 +76,7 @@ setting_dict = {
                 }
         },
         "train": {
-            "data_set" :  ["/DJI/DJItrain/"],#[ "/media/wang_shuai/新加卷/512Cut" ],
+            "data_set" :  ["/DJI/DJItrain/"],
             "batch_size" : 8,
             "transform" :
                 {

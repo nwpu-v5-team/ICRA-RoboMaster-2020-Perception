@@ -1,0 +1,12 @@
+%YAML:1.0
+num: 1
+subscribeTopic:
+    - /outpost_camera/outpost_camera0/image_raw
+    - /outpost_camera/outpost_camera2/image_raw
+detectionDnnPath:
+    - /home/wangpei/wangpei_ws/src/icra-vision-gc/tools/dij.pt
+    - /home/wangpei/wangpei_ws/src/icra-vision-gc/tools/dij.pt
+realWorldPoints:
+    - /home/wang_shuai/points.yaml
+    - /home/wang_shuai/points.yaml
+publishTopic: /usr/local
