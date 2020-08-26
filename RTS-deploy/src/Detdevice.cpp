@@ -15,7 +15,7 @@ int main(int argc, char** argv)
     ros::init(argc, argv, "");
 
     ICRA_Vision::SSDParam   params;
-    params.read("");
+    params.read("../config/config.yaml");
     ICRA_Vision::detectionSSD  worker(params);
     worker.build();
 
