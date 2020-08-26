@@ -40,7 +40,7 @@
 
 *  (optional) specify the output path
 
-  your can view the loss using tensorboard if you like , the loss will be store in output directory  
+  your can view the loss using tensorboard if you like , the loss will be stored in output directory  
 
   ```bash
   python3 train.py  --out_dir {YOUR_PATH}
