@@ -1,0 +1,26 @@
+var transform_8py =
+[
+    [ "Compose", "classdata_1_1transform_1_1transform_1_1_compose.html", "classdata_1_1transform_1_1transform_1_1_compose" ],
+    [ "Lambda", "classdata_1_1transform_1_1transform_1_1_lambda.html", "classdata_1_1transform_1_1transform_1_1_lambda" ],
+    [ "ConvertFromInts", "classdata_1_1transform_1_1transform_1_1_convert_from_ints.html", "classdata_1_1transform_1_1transform_1_1_convert_from_ints" ],
+    [ "SubtractMeans", "classdata_1_1transform_1_1transform_1_1_subtract_means.html", "classdata_1_1transform_1_1transform_1_1_subtract_means" ],
+    [ "ToAbsoluteCoords", "classdata_1_1transform_1_1transform_1_1_to_absolute_coords.html", "classdata_1_1transform_1_1transform_1_1_to_absolute_coords" ],
+    [ "ToPercentCoords", "classdata_1_1transform_1_1transform_1_1_to_percent_coords.html", "classdata_1_1transform_1_1transform_1_1_to_percent_coords" ],
+    [ "Resize", "classdata_1_1transform_1_1transform_1_1_resize.html", "classdata_1_1transform_1_1transform_1_1_resize" ],
+    [ "RandomSaturation", "classdata_1_1transform_1_1transform_1_1_random_saturation.html", "classdata_1_1transform_1_1transform_1_1_random_saturation" ],
+    [ "RandomHue", "classdata_1_1transform_1_1transform_1_1_random_hue.html", "classdata_1_1transform_1_1transform_1_1_random_hue" ],
+    [ "RandomLightingNoise", "classdata_1_1transform_1_1transform_1_1_random_lighting_noise.html", "classdata_1_1transform_1_1transform_1_1_random_lighting_noise" ],
+    [ "ConvertColor", "classdata_1_1transform_1_1transform_1_1_convert_color.html", "classdata_1_1transform_1_1transform_1_1_convert_color" ],
+    [ "RandomContrast", "classdata_1_1transform_1_1transform_1_1_random_contrast.html", "classdata_1_1transform_1_1transform_1_1_random_contrast" ],
+    [ "RandomBrightness", "classdata_1_1transform_1_1transform_1_1_random_brightness.html", "classdata_1_1transform_1_1transform_1_1_random_brightness" ],
+    [ "ToCV2Image", "classdata_1_1transform_1_1transform_1_1_to_c_v2_image.html", "classdata_1_1transform_1_1transform_1_1_to_c_v2_image" ],
+    [ "ToTensor", "classdata_1_1transform_1_1transform_1_1_to_tensor.html", "classdata_1_1transform_1_1transform_1_1_to_tensor" ],
+    [ "RandomSampleCrop", "classdata_1_1transform_1_1transform_1_1_random_sample_crop.html", "classdata_1_1transform_1_1transform_1_1_random_sample_crop" ],
+    [ "Expand", "classdata_1_1transform_1_1transform_1_1_expand.html", "classdata_1_1transform_1_1transform_1_1_expand" ],
+    [ "RandomMirror", "classdata_1_1transform_1_1transform_1_1_random_mirror.html", "classdata_1_1transform_1_1transform_1_1_random_mirror" ],
+    [ "SwapChannels", "classdata_1_1transform_1_1transform_1_1_swap_channels.html", "classdata_1_1transform_1_1transform_1_1_swap_channels" ],
+    [ "PhotometricDistort", "classdata_1_1transform_1_1transform_1_1_photometric_distort.html", "classdata_1_1transform_1_1transform_1_1_photometric_distort" ],
+    [ "intersect", "transform_8py.html#ac0a87bd473d21a1366de155eff33d35f", null ],
+    [ "jaccard_numpy", "transform_8py.html#a72b7679dda04a464ab59bdce7ff1cf73", null ],
+    [ "remove_empty_boxes", "transform_8py.html#a1a2f32ca8f455d636bb217fa8fb2df7e", null ]
+];
